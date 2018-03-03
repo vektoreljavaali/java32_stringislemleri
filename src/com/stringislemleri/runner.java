@@ -60,8 +60,7 @@ public class runner {
 		System.out.println(deger.split(",")[2]);
 		
 		
-		
-		System.out.println("Program Sonu...");
+	
 		
 	}
 
